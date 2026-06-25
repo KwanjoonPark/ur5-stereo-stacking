@@ -3,8 +3,8 @@
 CoppeliaSim 환경에서 **스테레오 비전으로 색상 블록을 인식**하고, **UR5 로봇이 집어서 2층 피라미드를 쌓는** 시스템입니다.
 Python에서 ZMQ Remote API로 시뮬레이터를 원격 제어합니다.
 
-<!-- 대표 결과 이미지 (images/14_final_result.png 등으로 교체) -->
-![demo](images/14_final_result.png)
+<img width="400" height="199" alt="로봇공학 Term Project 영상" src="https://github.com/user-attachments/assets/9c0180e2-80bc-45e0-9814-417d767eb769" />
+
 
 ---
 
